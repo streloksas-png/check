@@ -1,0 +1,34 @@
+[
+  {
+    "package": "chart.js",
+    "version": "4.5.1",
+    "file": "assets/chart.umd.js",
+    "sha256": "ecc3cd1eeb8c34d2178e3f59fd63ec5a3d84358c11730af0b9958dc886d7652a",
+    "tarball": "https://registry.npmjs.org/chart.js/-/chart.js-4.5.1.tgz",
+    "integrity": "sha512-GIjfiT9dbmHRiYi6Nl2yFCq7kkwdkp1W/lp2J99rX0yo9tgJGn3lKQATztIjb5tVtevcBtIdICNWqlq5+E8/Pw=="
+  },
+  {
+    "package": "jquery",
+    "version": "3.7.1",
+    "file": "assets/jquery.min.js",
+    "sha256": "fc9a93dd241f6b045cbff0481cf4e1901becd0e12fb45166a8f17f95823f0b1a",
+    "tarball": "https://registry.npmjs.org/jquery/-/jquery-3.7.1.tgz",
+    "integrity": "sha512-m4avr8yL8kmFN8psrbFFFmB/If14iN5o9nw/NgnnM+kybDJpRsAynV2BsfpTYrTRysYUdADVD7CkUUizgkpLfg=="
+  },
+  {
+    "package": "datatables.net",
+    "version": "1.13.11",
+    "file": "assets/jquery.dataTables.min.js",
+    "sha256": "a33146fad8c7228dc4dc90043e3e50d51cead8b2267aeac32b0a8f3be8a52b86",
+    "tarball": "https://registry.npmjs.org/datatables.net/-/datatables.net-1.13.11.tgz",
+    "integrity": "sha512-AE6RkMXziRaqzPcu/pl3SJXeRa6fmXQG/fVjuRESujvkzqDCYEeKTTpPMuVJSGYJpPi32WGSphVNNY1G4nSN/g=="
+  },
+  {
+    "package": "datatables.net-dt",
+    "version": "1.13.11",
+    "file": "assets/jquery.dataTables.min.css",
+    "sha256": "b113506cbced802d49dd3f2fdec2d9de60c9cbfe53ab13b87337e34ef10200eb",
+    "tarball": "https://registry.npmjs.org/datatables.net-dt/-/datatables.net-dt-1.13.11.tgz",
+    "integrity": "sha512-4GpS4OFLwIMfhb5UdJh6bEnh0E52jIJOlx7KLKs1pSce/xpHjvcmucbUWNaEndQIpHXtIxmVPoqcDB0ZbiVB+A=="
+  }
+]
